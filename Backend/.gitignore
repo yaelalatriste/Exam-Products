@@ -1,0 +1,32 @@
+# Carpeta de compilación
+/target/
+
+# Archivos de IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Archivos de configuración
+application.properties
+application.yml
+*.bak
+*.swp
+
+# Archivos de logs
+logs/
+*.log
+
+# Archivos de usuario
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias
+/lib/
+/dependencies/
+
+# Archivos de Spring Boot
+/src/main/resources/static/
+/src/main/resources/templates/
+/src/test/resources/
