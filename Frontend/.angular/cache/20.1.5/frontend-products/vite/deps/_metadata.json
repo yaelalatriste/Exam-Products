@@ -1,0 +1,76 @@
+{
+  "hash": "a49e71ba",
+  "configHash": "0a8a7b5c",
+  "lockfileHash": "3133fb84",
+  "browserHash": "0ae89dc6",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "6e4155c8",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "54309f01",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "ff4c3759",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "0f12d9f2",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "abc4f865",
+      "needsInterop": false
+    },
+    "sweetalert2": {
+      "src": "../../../../../../node_modules/sweetalert2/dist/sweetalert2.esm.all.js",
+      "file": "sweetalert2.js",
+      "fileHash": "d5d28dff",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "b948b8b8",
+      "needsInterop": true
+    },
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "66f597ae",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-NOG3JZGA": {
+      "file": "chunk-NOG3JZGA.js"
+    },
+    "chunk-HC6OXQJT": {
+      "file": "chunk-HC6OXQJT.js"
+    },
+    "chunk-4H5UTL4K": {
+      "file": "chunk-4H5UTL4K.js"
+    },
+    "chunk-DBQVMHQU": {
+      "file": "chunk-DBQVMHQU.js"
+    },
+    "chunk-KBYV2LFA": {
+      "file": "chunk-KBYV2LFA.js"
+    },
+    "chunk-WDMUDEB6": {
+      "file": "chunk-WDMUDEB6.js"
+    }
+  }
+}
